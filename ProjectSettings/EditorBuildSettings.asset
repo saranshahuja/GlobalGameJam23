@@ -12,6 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Options Scene.unity
     guid: f98bd5e6cd3e388429d01a96e9410013
   - enabled: 1
-    path: Assets/Scenes/Initial Play Scene.unity
+    path: Assets/Scenes/Branch and Leaf Level Scene.unity
     guid: 76df181c215c38745838d152502dd4fc
+  - enabled: 1
+    path: Assets/Scenes/Trunk Level Scene.unity
+    guid: 79630200b4bbea34994bb7c29ac040b0
+  - enabled: 1
+    path: Assets/Scenes/Roots Level Scene.unity
+    guid: 5b8e7514cdc85ec449ce717b12e4aea9
+  - enabled: 1
+    path: Assets/Scenes/Colony Dirt Scene.unity
+    guid: f6ca6dc58238fa34b8d28418045fde25
   m_configObjects: {}
